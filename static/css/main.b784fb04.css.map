@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.b784fb04.css","mappings":"AAAA,qBAEI,aAAmB,CADnB,cAEJ,CAEA,4BACI,aACJ","sources":["components/PageTab.css"],"sourcesContent":[".page-tabs .nav-link {\r\n    cursor: pointer;\r\n    color: mediumpurple;\r\n}\r\n\r\n.page-tabs .nav-link.active {\r\n    color: darkblue;\r\n}"],"names":[],"sourceRoot":""}
