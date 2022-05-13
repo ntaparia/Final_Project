@@ -1,13 +1,13 @@
 {
-  "files": {
-    "main.css": "/Final_Project/static/css/main.c4f25d3b.css",
-    "main.js": "/Final_Project/static/js/main.d2c3e2c1.js",
-    "index.html": "/Final_Project/index.html",
-    "main.c4f25d3b.css.map": "/Final_Project/static/css/main.c4f25d3b.css.map",
-    "main.d2c3e2c1.js.map": "/Final_Project/static/js/main.d2c3e2c1.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.c4f25d3b.css",
-    "static/js/main.d2c3e2c1.js"
-  ]
+  "main.css": "/Final_Project/static/css/main.435ee3c4.chunk.css",
+  "main.js": "/Final_Project/static/js/main.a575965b.chunk.js",
+  "main.js.map": "/Final_Project/static/js/main.a575965b.chunk.js.map",
+  "static/js/1.ea04ef38.chunk.js": "/Final_Project/static/js/1.ea04ef38.chunk.js",
+  "static/js/1.ea04ef38.chunk.js.map": "/Final_Project/static/js/1.ea04ef38.chunk.js.map",
+  "runtime~main.js": "/Final_Project/static/js/runtime~main.19102bc1.js",
+  "runtime~main.js.map": "/Final_Project/static/js/runtime~main.19102bc1.js.map",
+  "static/css/main.435ee3c4.chunk.css.map": "/Final_Project/static/css/main.435ee3c4.chunk.css.map",
+  "index.html": "/Final_Project/index.html",
+  "precache-manifest.cb8bff5b2215a6424b58f8f624e0dac8.js": "/Final_Project/precache-manifest.cb8bff5b2215a6424b58f8f624e0dac8.js",
+  "service-worker.js": "/Final_Project/service-worker.js"
 }
